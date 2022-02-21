@@ -12,7 +12,7 @@ return {
     minorVersion = 0,              
     severityAdd = "NONE",       
     severityRemove = "NONE",   
-    tags = { "map", "misc" }
+    tags = { "map", "misc", "script mod"}
   },
   options = {
 	nameList = { 
