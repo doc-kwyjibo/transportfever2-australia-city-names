@@ -14,5 +14,10 @@ return {
     severityRemove = "NONE",   
     tags = { "map", "misc" }
   },
+  options = {
+	nameList = { 
+		{ "australia", _("Australian") } 
+	}
+  }
 }
 end
